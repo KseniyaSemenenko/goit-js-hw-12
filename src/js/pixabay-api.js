@@ -1,3 +1,5 @@
+// import axios from 'axios';
+
 const url = 'https://pixabay.com';
    export const fetchPhotos = inputValue => {
    const options = new URLSearchParams ({
